@@ -65,4 +65,13 @@ code {
 .back { text-align: left; margin-top:10px;}
 .back a {color: #444444; font-size: 13px;text-decoration: none;}
 
+.custom-body{
+  text-align: center;
+  font-size: 50px;
+  color: blue;
+}
 
+.item-cost{
+  color: red;
+    text-align: center;
+}
